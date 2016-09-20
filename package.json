@@ -1,11 +1,25 @@
 {
-  "name": "starter",
+  "name": "webpack-starter",
   "version": "1.0.0",
-  "description": "Starter repository",
+  "description": "Webpack seed",
   "author": "Mo Gusbi",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/mogusbi/starter.git"
+    "url": "https://github.com/mogusbi/webpack-starter.git"
+  },
+  "devDependencies": {
+    "angular2-template-loader": "^0.5.0",
+    "file-loader": "^0.9.0",
+    "html-loader": "^0.4.4",
+    "html-webpack-plugin": "^2.22.0",
+    "path": "^0.12.7",
+    "rimraf": "^2.5.4",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "typings": "^1.3.3",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1",
+    "webpack-merge": "^0.14.1"
   }
 }
