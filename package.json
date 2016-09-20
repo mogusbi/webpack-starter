@@ -1,0 +1,11 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Starter repository",
+  "author": "Mo Gusbi",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mogusbi/starter.git"
+  }
+}
